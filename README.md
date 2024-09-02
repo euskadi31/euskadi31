@@ -13,5 +13,7 @@ All my projects are not on my personal account, I use organizations as categoriz
 /><img height="125" src="https://github-readme-stats.vercel.app/api?username=euskadi31&show_icons=true&theme=dracula&count_private=true" alt="euskadi31's GitHub stats"
 />
 
-[![GitHub followers](https://img.shields.io/github/followers/euskadi31?style=social&label=Follow%20me)](https://github.com/euskadi31)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=euskadi31)](https://git.io/streak-stats)
+
+[![GitHub followers](https://img.shields.io/github/followers/euskadi31?style=social&label=Follow%20me)](https://github.com/euskadi31)<br />
 [![Twitter Follow](https://img.shields.io/twitter/follow/euskadi31?style=social&label=Follow%20me)](https://twitter.com/euskadi31)
